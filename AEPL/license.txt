@@ -1,0 +1,6 @@
+Copyright <Year>, <Entity Name and Optional Metadata>
+
+Copying and distribution of this work, with or without modification, are
+permitted provided this entire instrument is preserved as a notice.
+
+DISCLAIMER: THIS WORK IS WITHOUT WARRANTY.
